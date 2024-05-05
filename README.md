@@ -1,5 +1,5 @@
 - ✨ Olá, eu sou @ManuelaBertanha
-- 🌱 Sou estudante do 6º semestre de Sistemas de Informação na Universidade Presbiteriana Mackenzie
+- 🌱 Sou estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie
 - 💞️ Também faço parte do CIBERDEM - Grupo de Pesquisa e Inovação em Ciberdemocracia (https://ciberdem.mack.com.br/)
 - 📫 Linkedln: https://www.linkedin.com/in/manuela-bertanha/
 
